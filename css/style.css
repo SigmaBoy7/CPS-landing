@@ -224,7 +224,7 @@ button {
 }
 
 .services__show-more-button > span::before{
-    content: url(/assets/ic/expand.svg);
+    content: url(../assets/ic/expand.svg);
     margin-right: 8px;
 }
 
@@ -322,12 +322,12 @@ button {
     }
 
     .services__link:first-child::after{
-        content: url(/assets/ic/repair.svg);
+        content: url(../assets/ic/repair.svg);
         margin-left: 8px;
     }
 
     .services__link:last-child::after{
-        content: url(/assets/ic/checkstatus.svg);
+        content: url(../assets/ic/checkstatus.svg);
         margin-left: 8px;
     }
 
