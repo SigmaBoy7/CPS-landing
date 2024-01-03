@@ -198,7 +198,7 @@ button {
     gap: 16px;
 }
 
-.abc{
+.about__text{
     display: flex;
     flex-direction: column;
     gap: 16px;
@@ -251,7 +251,7 @@ button {
         padding: 0px 24px;
     }
 
-    .abc{
+    .about__text{
         display: flex;
         flex-direction: column;
         width: 50%;
