@@ -212,18 +212,14 @@ button {
 
 .services__show-more-button{
     align-items: center;
-}
-
-.services__show-more-button > span{
     display: flex;
     align-items: center;
 
     font-family: "TT Lakes Medium", 'sans-serif';
     font-size: 16px;
-
 }
 
-.services__show-more-button > span::before{
+.services__show-more-button::before{
     content: url(../assets/ic/expand.svg);
     margin-right: 8px;
 }
